@@ -11,7 +11,7 @@
           </div>
         </div>
         <div style={styles.card}>
-          <img src={"/andreiev"} alt="Vladyslav Andreiev" style={styles.photo} />
+          <img src={"/andreiev.jpg"} alt="Vladyslav Andreiev" style={styles.photo} />
           <div style={styles.textContainer}>
             <h2 style={styles.name}>Andreiev Vladyslav Romanovich</h2>
             <p style={styles.position}>Project manager</p>
