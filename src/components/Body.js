@@ -24,6 +24,13 @@
             <p style={styles.position}>QA</p>
           </div>
         </div>
+        <div style={styles.card}>
+          <img src={"/prokopiv.jpg"} alt="Vladyslav Prokopiv" style={styles.photo} />
+          <div style={styles.textContainer}>
+            <h2 style={styles.name}>Prokopiv Vladyslav Ivanovych</h2>
+            <p style={styles.position}>Developer</p>
+          </div>
+        </div>
       </main>
     );
   };
