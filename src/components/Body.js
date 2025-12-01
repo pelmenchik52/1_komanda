@@ -17,6 +17,13 @@
             <p style={styles.position}>Project manager</p>
           </div>
         </div>
+        <div style={styles.card}>
+          <img src={"/yulia.jpg"} alt="Yulia Kravtsiv" style={styles.photo} />
+          <div style={styles.textContainer}>
+            <h2 style={styles.name}>Kravtsiv Yulia Andriiva</h2>
+            <p style={styles.position}>QA</p>
+          </div>
+        </div>
       </main>
     );
   };
